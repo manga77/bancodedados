@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@100&family=Play:wght@700&display=swap');
+
+body {
+    font-family: 'Asap', sans-serif;
+    font-family: 'Play', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #272727; /* Altere para a cor desejada */
+    text-align: center; /* Centraliza o texto dentro do body */
+}
+
+header {
+    background-color: #333;
+    color: #00ff88;
+    padding: 1em;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #00ff88;
+    margin: 0 15px;
+}
+
+main {
+    padding: 20px;
+    margin: auto; /* Centraliza o main */
+    max-width: 800px; /* Defina uma largura máxima para o main, ajuste conforme necessário */
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #00ff88;
+}
+#conteudoPrincipal {
+    color: white; /* Altere para a cor desejada */
+}
