@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <p>30 embalagens</p>
             <p>30 caixas de madeira</p>
         `,
-        imagens: "<img src='localizacao.png' alt='Imagem'>",
+        imagens: "<img src='localizacaol.png' alt='Imagem'>",
         video: "<iframe width='560' height='315' src='caminho_para_seu_video.mp4' frameborder='0' allowfullscreen></iframe>"
     };
 
