@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
             <p>30 embalagens</p>
             <p>30 caixas de madeira</p>
         `,
-        imagens: "<img src='localizacao.png' alt='Imagem'>",
+        imagens: "<img src='localizacaol.png' alt='Imagem'>",
         video: "<img src='localizacaol.png' alt='Imagem'>"
     };
 
