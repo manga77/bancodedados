@@ -3,16 +3,16 @@ document.addEventListener("DOMContentLoaded", function () {
     const conteudoAba = {
         informacoes: `
             <h2>Aqui estão os itens que você deverá coletar para ter acesso a proxima fase:</h2>
-            <p>5 ominitrix</p>
-            <p>30 diamantes.</p>
-            <p>10 tubarões pequenos</p>
-            <p>100 papeis</p>
+            <p>5 alicates</p>
+            <p>40 barras de cobre</p>
+            <p>10 dados</p>
+            <p>100 polvoras</p>
             <p>3 caixas de javali</p>
             <p>3 caixas de coiote</p>
             <p>3 caixas de puma</p>
             <p>2 caixas de servo</p>
-            <p>35 cloros</p>
-            <p>30 embalagens</p>
+            <p>10 placas</p>
+            <p>15 C4 improvisada</p>
             <p>30 caixas de madeira</p>
         `,
         imagens: "<img src='localizacaol.png' alt='Imagem'>",
